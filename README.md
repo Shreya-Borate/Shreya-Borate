@@ -24,7 +24,7 @@ Passionate about building intelligent applications using **Machine Learning, Dee
 
 **Data Science & Machine Learning:** NumPy, Pandas, Matplotlib, Scikit-learn
 
-**Deep Learning & Computer Vision:** TensorFlow, PyTorch, CNNs, MLPs, RNN, Transformers
+**Deep Learning & Computer Vision:** ANN, FNN, RNN, CNN, Transformers, TensorFlow, PyTorch,MLP
 
 **Generative AI:**  LLMs, LangChain, RAG, Prompt Engineering, Embeddings, Semantic Search, Hugging Face Transformers, FAISS
 
