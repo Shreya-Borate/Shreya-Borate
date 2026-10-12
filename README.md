@@ -22,13 +22,13 @@ Passionate about building intelligent applications using **Machine Learning, Dee
 
 **Programming:** Python, SQL
 
-**Data Science & Machine Learning:** NumPy, Pandas, Matplotlib, Scikit-learn, XGBoost
+**Data Science & Machine Learning:** NumPy, Pandas, Matplotlib, Scikit-learn
 
-**Deep Learning & Computer Vision:** TensorFlow, PyTorch, CNNs, MLPs, Transformers, RAFT, OpenCV, Optical Flow
+**Deep Learning & Computer Vision:** TensorFlow, PyTorch, CNNs, MLPs, RNN, Transformers
 
-**NLP & Generative AI:** NLP, LLMs, LangChain, RAG, Prompt Engineering, Embeddings, Semantic Search, Hugging Face Transformers, FAISS
+**Generative AI:**  LLMs, LangChain, RAG, Prompt Engineering, Embeddings, Semantic Search, Hugging Face Transformers, FAISS
 
-**Tools & Frameworks:** Git, GitHub, VS Code, Google Colab, Jupyter Notebook, Streamlit, FastAPI, PostgreSQL
+**Tools & Frameworks:** Git, GitHub, VS Code, Google Colab, Jupyter Notebook, Streamlit
 
 ## 🎯 Areas of Interest
 
